@@ -1,2 +1,3 @@
 # github-actions
-Contecnts for Github Actions
+Contents for Github Actions 
+- Author :: Soumiyajit Das Chowdhury
