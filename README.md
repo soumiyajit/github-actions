@@ -1,3 +1,3 @@
 # github-actions
-Contents for Github Actions 
+Mastering Github Actions 
 - Author :: Soumiyajit Das Chowdhury
